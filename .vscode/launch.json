@@ -1,0 +1,28 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "WeatherAPI",
+            "request": "launch",
+            "mainClass": "WeatherAPI",
+            "projectName": "weather_bed98999"
+        },
+        {
+            "type": "java",
+            "name": "three_day",
+            "request": "launch",
+            "mainClass": "three_day",
+            "projectName": "weather_bed98999"
+        }
+    ]
+}
